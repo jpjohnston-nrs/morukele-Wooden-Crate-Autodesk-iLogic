@@ -1,0 +1,8 @@
+C:\Users\Oghenemarho\Documents\Mars Manufacturing\iLogic Designs\Wooden Creat\API Code\Crate Configurator API Code\bin\Debug\Crate Configurator API Code.exe.config
+C:\Users\Oghenemarho\Documents\Mars Manufacturing\iLogic Designs\Wooden Creat\API Code\Crate Configurator API Code\bin\Debug\Crate Configurator API Code.exe
+C:\Users\Oghenemarho\Documents\Mars Manufacturing\iLogic Designs\Wooden Creat\API Code\Crate Configurator API Code\bin\Debug\Crate Configurator API Code.pdb
+C:\Users\Oghenemarho\Documents\Mars Manufacturing\iLogic Designs\Wooden Creat\API Code\Crate Configurator API Code\obj\Debug\Crate Configurator API Code.csprojAssemblyReference.cache
+C:\Users\Oghenemarho\Documents\Mars Manufacturing\iLogic Designs\Wooden Creat\API Code\Crate Configurator API Code\obj\Debug\Crate Configurator API Code.csproj.ResolveComReference.cache
+C:\Users\Oghenemarho\Documents\Mars Manufacturing\iLogic Designs\Wooden Creat\API Code\Crate Configurator API Code\obj\Debug\Crate Configurator API Code.csproj.CoreCompileInputs.cache
+C:\Users\Oghenemarho\Documents\Mars Manufacturing\iLogic Designs\Wooden Creat\API Code\Crate Configurator API Code\obj\Debug\Crate Configurator API Code.exe
+C:\Users\Oghenemarho\Documents\Mars Manufacturing\iLogic Designs\Wooden Creat\API Code\Crate Configurator API Code\obj\Debug\Crate Configurator API Code.pdb
